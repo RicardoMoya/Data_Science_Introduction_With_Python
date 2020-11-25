@@ -1,0 +1,11 @@
+,idPartido,temporada,division,jornada,EquipoLocal,EquipoVisitante,golesLocal,golesVisitante,fecha,timestamp
+0,36306,2017-18,1,1,Valencia,Las Palmas,1,0,18/08/2017,1503007200
+1,36307,2017-18,1,1,Leganes,Alaves,1,0,18/08/2017,1503007200
+2,36308,2017-18,1,1,Celta de Vigo,Real Sociedad,2,3,19/08/2017,1503093600
+3,36309,2017-18,1,1,Girona,Atletico de Madrid,2,2,19/08/2017,1503093600
+4,36310,2017-18,1,1,Sevilla,Espanol,1,1,19/08/2017,1503093600
+5,36311,2017-18,1,1,Levante,Villarreal,1,0,20/08/2017,1503180000
+6,36312,2017-18,1,1,Atletico de Bilbao,Getafe,0,0,20/08/2017,1503180000
+7,36313,2017-18,1,1,Malaga,Eibar,0,1,20/08/2017,1503180000
+8,36314,2017-18,1,1,Barcelona,Betis,2,0,20/08/2017,1503180000
+9,36315,2017-18,1,1,Deportivo,Real Madrid,0,3,20/08/2017,1503180000

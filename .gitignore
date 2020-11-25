@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints/
+*.pyc
+*.ini.local
+.coverage
+*.DS_Store

@@ -1,0 +1,10 @@
+user_id,brand,model,kilometers
+1,Renault,Clio,10
+2,Renault,Megane,23000
+3,Seat,Ibiza,9000
+2,Seat,Leon,20
+5,Opel,Corsa,999
+4,Renault,Clio,34000
+1,Seat,Ibiza,2000
+2,Seat,Cordoba,99999
+3,Renault,Clio,88888
