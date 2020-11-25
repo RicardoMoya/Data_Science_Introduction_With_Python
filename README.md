@@ -19,9 +19,7 @@ El contenido compartido es el siguiente, dividiendose el curso en 3 módulos:
 
 Breve introducción al mundo de la ciencia de datos, describiendo conceptos como: Data Driven Decision Makining (DDDM), Big Data, Fases del Big Data, ¿Que es la Ciencia de Datos?, Ciclo de vida de un proyecto Data Science, Roles en un proyecto Data Science, en qué invierte el tiempo un Cientifico de Datos y por último ¿Que es Kaggle?.
 
-
-	* Notebooks:
-		- 00_Introduccion.ipynb
+- [00_Introduccion.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/00_Introduccion.ipynb)
 
 
 ### Módulo II: Análisis de datos
@@ -30,34 +28,30 @@ Breve introducción al mundo de la ciencia de datos, describiendo conceptos como
 
 #### Tema 1: Data Wrangling
 
-	* Notebooks:
-		- 01_Data_Wrangling-Obtencion_Tweets.ipynb
-		- 02_Scraping-Ejemplo.ipynb
+- [01_Data_Wrangling-Obtencion_Tweets.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/01_Data_Wrangling-Obtencion_Tweets.ipynb)
+- [02_Scraping-Ejemplo.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/02_Scraping-Ejemplo.ipynb)
 
 
 #### Tema 2: Exploratory Data Analysis (EDA)
 
 En Español: "Análisis Exploratorio de Datos"
 
-	* Notebooks:
-		- 03_Pandas_Objetos_Basicos.ipynb
-		- 04_Pandas_Dataframe_Atributos_Metodos_Utiles.ipynb
-		- 05_Pandas_Dataframe_Info_Description_Filtros_Nuevas_Columnas.ipynb
-		- 06_Pandas_Dataframe_Agregaciones_Ordenaciones.ipynb
-		- 07_Pandas_Dataframe_Join_Union.ipynb
-		- 09_Pandas_Dataframe_Pivot_Table.ipynb
+- [03_Pandas_Objetos_Basicos.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/03_Pandas_Objetos_Basicos.ipynb)
+- [04_Pandas_Dataframe_Atributos_Metodos_Utiles.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/04_Pandas_Dataframe_Atributos_Metodos_Utiles.ipynb)
+- [05_Pandas_Dataframe_Info_Description_Filtros_Nuevas_Columnas.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/05_Pandas_Dataframe_Info_Description_Filtros_Nuevas_Columnas.ipynb)
+- [06_Pandas_Dataframe_Agregaciones_Ordenaciones.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/06_Pandas_Dataframe_Agregaciones_Ordenaciones.ipynb)
+- [07_Pandas_Dataframe_Join_Union.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/07_Pandas_Dataframe_Join_Union.ipynb)
+- [09_Pandas_Dataframe_Pivot_Table.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/09_Pandas_Dataframe_Pivot_Table.ipynb)
 
 		
 #### Tema 3: Visualización
 
-	* Notebooks:
-		- 11_Graficos_Matplotlib.ipynb
-		- 12_Graficos_Seaborn.ipynb
+- [11_Graficos_Matplotlib.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/11_Graficos_Matplotlib.ipynb)
+- [12_Graficos_Seaborn.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/12_Graficos_Seaborn.ipynb)
 
 #### Tema 4: Limpieza de Datos
 
-	* Notebooks:
-		- 13_Limpieza_de_Datos_Imputacion_Valores_Faltantes.ipynb
+- [13_Limpieza_de_Datos_Imputacion_Valores_Faltantes.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/13_Limpieza_de_Datos_Imputacion_Valores_Faltantes.ipynb)
 
 
 
@@ -78,70 +72,62 @@ En Español: "Análisis Exploratorio de Datos"
 
 #### Tema 1: Introducción al Machine Learning
 
-	* Notebooks:
-		- 14_Machine_Learning_Introduccion.ipynb
-		- 15_Tecnicas_de_Evaluacion.ipynb
+- [14_Machine_Learning_Introduccion.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/14_Machine_Learning_Introduccion.ipynb)
+- [15_Tecnicas_de_Evaluacion.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/15_Tecnicas_de_Evaluacion.ipynb)
 
 
 #### Tema 2: Regresión Lineal (Múltiple)
 
-	* Notebooks:
-		- 16_Regresion_Lineal_Simple.ipynb
-		- 17_Regresion_Lineal_Simple_Sckit.ipynb
-		- 19_Regresion_Lineal_Multiple.ipynb
-		- 20_Regresion_Lineal_Modelo_Matricial.ipynb
-		- 21_Regresion_Lineal_Multiple_Scikit.ipynb
+- [16_Regresion_Lineal_Simple.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/16_Regresion_Lineal_Simple.ipynb)
+- [17_Regresion_Lineal_Simple_Sckit.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/17_Regresion_Lineal_Simple_Sckit.ipynb)
+- [19_Regresion_Lineal_Multiple.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/19_Regresion_Lineal_Multiple.ipynb)
+- [20_Regresion_Lineal_Modelo_Matricial.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/20_Regresion_Lineal_Modelo_Matricial.ipynb)
+- [21_Regresion_Lineal_Multiple_Scikit.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/21_Regresion_Lineal_Multiple_Scikit.ipynb)
 
 
 #### Tema 3: Evaluación de Modelos de Regresión
 
-	* Notebooks:
-		- 23_Evaluacion_Modelos_Regresion.ipynb
-		- 24_Hold_Out_Regresion_Lineal_Multiple.ipynb
-		- 25_Cross_Validation_Regresion_Lineal_Multiple.ipynb
+- [23_Evaluacion_Modelos_Regresion.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/23_Evaluacion_Modelos_Regresion.ipynb)
+- [24_Hold_Out_Regresion_Lineal_Multiple.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/24_Hold_Out_Regresion_Lineal_Multiple.ipynb)
+- [25_Cross_Validation_Regresion_Lineal_Multiple.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/25_Cross_Validation_Regresion_Lineal_Multiple.ipynb)
 
 
 #### Tema 4: Clasificación
 
-	* Notebooks:
-		- 27_Clasificacion_Regresion_Logistica.ipynb
-		- 28_Clasificacion_Regresion_Logistica_Scikit_Iris.ipynb
-		- 29_Clasificacion_Multiple_Regresion_Logistica_Scikit_Iris.ipynb
-		- 30_Clasificacion_Multiple_N_Features_Regresion_Logistica_Scikit_Iris.ipynb
+- [27_Clasificacion_Regresion_Logistica.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/27_Clasificacion_Regresion_Logistica.ipynb)
+- [28_Clasificacion_Regresion_Logistica_Scikit_Iris.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/28_Clasificacion_Regresion_Logistica_Scikit_Iris.ipynb)
+- [29_Clasificacion_Multiple_Regresion_Logistica_Scikit_Iris.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/29_Clasificacion_Multiple_Regresion_Logistica_Scikit_Iris.ipynb)
+- [30_Clasificacion_Multiple_N_Features_Regresion_Logistica_Scikit_Iris.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/30_Clasificacion_Multiple_N_Features_Regresion_Logistica_Scikit_Iris.ipynb)
 
 
 #### Tema 5: Evaluación de Modelos de Clasificación
 
-	* Notebooks:
-		- 32_Evaluacion_Modelos_Clasificacion.ipynb
-		- 33_Evaluacion_Modelos_Clasificacion_Hold_Out_Iris.ipynb
+- [32_Evaluacion_Modelos_Clasificacion.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/32_Evaluacion_Modelos_Clasificacion.ipynb)
+- [33_Evaluacion_Modelos_Clasificacion_Hold_Out_Iris.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/33_Evaluacion_Modelos_Clasificacion_Hold_Out_Iris.ipynb)
 
 
 #### Tema 6: Normalización, Correlación y Transformación de Datos
 
-	* Notebooks:
-		- 35_Transformaciones_de_Datos_de_Variables_Categoricas.ipynb
-		- 36_Normalizacion_de_Datos.ipynb
-		- 37_Correlacion_de_Datos.ipynb
+- [35_Transformaciones_de_Datos_de_Variables_Categoricas.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/35_Transformaciones_de_Datos_de_Variables_Categoricas.ipynb)
+- [36_Normalizacion_de_Datos.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/36_Normalizacion_de_Datos.ipynb)
+- [37_Correlacion_de_Datos.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/37_Correlacion_de_Datos.ipynb)
 
 
 #### Tema 7: Clustering
 
-	* Notebooks:
-		- 38_Clustering_K_Means.ipynb
-		- 39_Clustering_K_Means_Scikit.ipynb
-		- 40_Clustering_K_Means_4_Features_Scikit.ipynb
-		- 41_Seleccion_Optima_Numero_Clusters.ipynb
-		- 42_Ejemplo_Segmentacion_Clientes_Centros_Comerciales.ipynb
-		- 43_Clustering_Gaussian_Mixture_Models.ipynb
-		- 44_Clustering_Gaussian_Mixture_Models_Scikit.ipynb
+- [38_Clustering_K_Means.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/38_Clustering_K_Means.ipynb)
+- [39_Clustering_K_Means_Scikit.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/39_Clustering_K_Means_Scikit.ipynb)
+- [40_Clustering_K_Means_4_Features_Scikit.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/40_Clustering_K_Means_4_Features_Scikit.ipynb)
+- [41_Seleccion_Optima_Numero_Clusters.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/41_Seleccion_Optima_Numero_Clusters.ipynb)
+- [42_Ejemplo_Segmentacion_Clientes_Centros_Comerciales.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/42_Ejemplo_Segmentacion_Clientes_Centros_Comerciales.ipynb)
+- [43_Clustering_Gaussian_Mixture_Models.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/43_Clustering_Gaussian_Mixture_Models.ipynb)
+- [44_Clustering_Gaussian_Mixture_Models_Scikit.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/44_Clustering_Gaussian_Mixture_Models_Scikit.ipynb)
 
 
 #### Tema 8: Reducción de la Dimensionalidad
 
-	* Notebooks:
-		- 45_Analisis_de_Componentes_Principales_PCA.ipynb
-		- 46_Ejemplo_Clasificacion_Multiple_con_PCA.ipynb
+- [45_Analisis_de_Componentes_Principales_PCA.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/45_Analisis_de_Componentes_Principales_PCA.ipynb)
+- [46_Ejemplo_Clasificacion_Multiple_con_PCA.ipynb](https://github.com/RicardoMoya/Data_Science_Introduction_With_Python/blob/master/46_Ejemplo_Clasificacion_Multiple_con_PCA.ipynb)
 
 <hr>
 
